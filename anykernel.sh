@@ -14,7 +14,7 @@ device.name1=evert
 device.name2=evert
 device.name3=evert
 device.name4=evert
-device.name5=evert
+device.name5=chef
 supported.versions=
 supported.patchlevels=
 '; } # end properties
