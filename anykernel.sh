@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=evert
 device.name2=evert
 device.name3=evert
-device.name4=evert
+device.name4=chef_sprout
 device.name5=chef
 supported.versions=
 supported.patchlevels=
@@ -29,7 +29,7 @@ set_perm_recursive 0 0 750 750 $ramdisk/init* $ramdisk/sbin;
 
 ## boot shell variables
 block=/dev/block/bootdevice/by-name/boot;
-is_slot_device=0;
+is_slot_device=auto;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
 
