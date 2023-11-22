@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=KernelSU by Rushi Ranpise
+kernel.string=AnyKernel3 by Rushi Ranpise
 do.devicecheck=1
 do.modules=0
 do.systemless=1
